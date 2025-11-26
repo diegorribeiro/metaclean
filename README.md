@@ -13,6 +13,14 @@ Useful for affiliates, social media, and anyone who wants to share files without
 
 ---
 
+## ⬇️ Download
+
+Download the latest release from [GitHub Releases](https://github.com/seuuser/MetaClean/releases/latest).
+
+Or build from source following the instructions below.
+
+---
+
 ## 📦 Prerequisites
 
 - [Python 3.10+](https://www.python.org/downloads/)
