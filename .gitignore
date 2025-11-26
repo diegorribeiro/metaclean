@@ -1,0 +1,42 @@
+# Ambiente virtual
+venv/
+ENV/
+.env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build PyInstaller
+build/
+dist/
+*.spec
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Binários do FFmpeg
+ffmpeg/
+!ffmpeg/.gitkeep
+
+# Outros arquivos
+cleaned/
+_apoio/
