@@ -5,6 +5,14 @@ Useful for affiliates, social media, and anyone who wants to share files without
 
 ---
 
+## 📸 Screenshot
+
+<div align="center">
+  <img src="en.jpg" alt="MetaClean Interface" width="600"/>
+</div>
+
+---
+
 ## 📦 Prerequisites
 
 - [Python 3.10+](https://www.python.org/downloads/)
